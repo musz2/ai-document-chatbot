@@ -66,4 +66,5 @@ Then open the local Streamlit URL shown in your terminal.
 
 - This is an in-memory beginner project. The FAISS index resets when the app restarts.
 - Text extraction works best with PDFs that contain selectable text.
+- https://ai-docchatbot.streamlit.app
 - Scanned image-only PDFs need OCR, which is intentionally outside this beginner version.
