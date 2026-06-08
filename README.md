@@ -60,7 +60,7 @@ Then open the local Streamlit URL shown in your terminal.
 4. Each chunk is converted into an embedding with OpenAI.
 5. FAISS stores the embeddings for fast similarity search.
 6. Your question is embedded and matched against the most relevant chunks.
-7. The OpenAI chat model answers using the retrieved PDF context.
+7. The OpenAI chat model answers using the retrieved PDF context
 
 ## Notes
 
